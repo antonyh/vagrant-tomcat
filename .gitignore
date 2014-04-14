@@ -1,0 +1,5 @@
+.vagrant
+*.bin
+*.zip
+data
+*.swp
