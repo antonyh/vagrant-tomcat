@@ -16,5 +16,5 @@ Exec { path => [ "/bin/", "/sbin/" , "/usr/bin/", "/usr/sbin/" ] }
 
 node default {
 	class { os: }
-	class { mongo: }
+	class { tomcat: }
 }
