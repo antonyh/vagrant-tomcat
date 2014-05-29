@@ -17,6 +17,8 @@ Start the Vagrant machine with 'vagrant up'.
 
 Put a .war file in ./webapps to install into Tomcat 7.
 
+localhost:8080 is mapped by the Vagrantfile to the running Tomcat in the VM.
+
 Notes
 =====
 
