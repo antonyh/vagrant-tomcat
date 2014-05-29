@@ -13,6 +13,7 @@ What You'll need
 Usage
 =====
 
+Start the Vagrant machine with 'vagrant up'.
 Put a .war file in ./webapps to install into Tomcat 7.
 
 Notes
