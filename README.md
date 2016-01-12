@@ -22,7 +22,7 @@ localhost:8080 is mapped by the Vagrantfile to the running Tomcat in the VM.
 Notes
 =====
 
-I've used the 'chef/fedora-20' box, because that's what I had to hand. Fork and change if you need, it should work with any RHL / Centos / Fedora.
+I've used the 'bento/fedora-21' box, because that's what I had to hand. Fork and change if you need, it should work with any RHL / Centos / Fedora (if you change the references to yum into dnf).
 
 It uses Puppet to install the tools.
 
